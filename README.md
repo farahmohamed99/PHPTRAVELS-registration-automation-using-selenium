@@ -2,9 +2,6 @@
 
 A test automation script that automates testcases with a set of conditions and checks the website’s efficiency using selenium automation tool , Jupyter notebook , Chrome web driver, unittest,  and Python.
 
-Prerequisites
-A test automation 
-
 Running the tests :
 
 To use the automation script you have to download all the files in the repository  and run test.ipynb . A set of testcases is executed and a report is created with the number of passes , failures and errors with screenshots from the failure testcases.
@@ -22,6 +19,8 @@ Components and features :
 •	Requests 
 
 •	Os
+
+•	json
 
 •	PIL
 
