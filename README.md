@@ -4,7 +4,7 @@ A test automation script that automates testcases with a set of conditions and c
 
 Running the tests :
 
-To use the automation script you have to download all the files in the repository  and run test.ipynb . A set of testcases is executed and a report is created with the number of passes , failures and errors with screenshots from the failure testcases.
+To use the automation script you have to download all the files in the repository  and run test.ipynb . A set of testcases is executed and a report is created with the number of passes , failures and errors with screenshots of the failure testcases.
 
 Components and features :
 
@@ -30,7 +30,7 @@ Components and features :
 
 •	Time
 
-The task consists of 6 python files :
+The project consists of 6 python files :
 
 1-	Locator :- contains 3 classes, Each class represents a page that contains 
 all the information needed for each element to access.
@@ -39,9 +39,9 @@ Ex: (By.NAME , 'firstname').
 2-	Elements :- contains 9 classes. A base class that represents one element on the page and fill it with the specified value, the other classes represent all the textboxes and inherits from the base class to be filled with the data.
 Ex: Firstname textbox = ‘ Stefan’.
 
-3-	Page :-  contains 4 classes, a base class and 3 other classes that represent the pages ex: register page , login page .
+3-	Page :-  contains 4 classes, a base class and 3 other classes that represent the pages ex: register page , login page and account page.
 
-4-	Utlis :- contains the helper functions and variables that is needed.
+4-	Utlis :- contains the helper functions and variables that are needed.
 
 5-	Test :- contains 1 class that contains all the testcases.
 
