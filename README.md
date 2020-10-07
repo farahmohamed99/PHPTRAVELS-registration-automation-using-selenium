@@ -12,14 +12,23 @@ To use the automation script you have to download all the files in the repositor
 Components and features :
 
 •	Python
+
 •	Selenium
+
 •	Chrome web driver
+
 •	HTML test runner (reports generator)
+
 •	Requests 
+
 •	Os
+
 •	PIL
+
 •	Faker (data generator)
+
 •	random
+
 •	Time
 
 The task consists of 6 python files :
