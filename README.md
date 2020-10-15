@@ -20,9 +20,9 @@ Running the tests :
  
  5- Open the cmd and install the following packages :
  
-   •	pip install selenium
+    •	pip install selenium
    
-   •    pip install unittest
+    •    pip install unittest
 
    •	pip install ipynb
 
