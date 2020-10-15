@@ -10,7 +10,7 @@ To run the automation script:
 
 2- Upload the zip file on jupyter notebook.
 
-3- To unzip the file you have to run this code and a folder named "Pixelogic_Assignment" will be created:
+3- To unzip the file you have to create a notebook and run this code and a folder named "Pixelogic_Assignment" will be created:
 
     import zipfile
     with zipfile.ZipFile("PHPTRAVELS-registration-automation-using-selenium-main.zip","r") as zip_ref:
