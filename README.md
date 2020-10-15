@@ -18,7 +18,7 @@ To run the automation script:
         
  4- Delete the reports and logs folders to create new ones.
  
- 5- Open the cmd and download the following packages :
+ 5- Open the cmd and install the following packages :
  
    •	pip install selenium
    
