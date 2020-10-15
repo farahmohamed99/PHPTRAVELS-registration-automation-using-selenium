@@ -14,7 +14,7 @@ To run the automation script:
 
     import zipfile
     with zipfile.ZipFile("PHPTRAVELS-registration-automation-using-selenium-main.zip","r") as zip_ref:
-        zip_ref.extractall("Pixelogic_Assignment")
+        zip_ref.extractall("Assignment")
         
  4- Delete the reports and logs folders to create new ones.
  
