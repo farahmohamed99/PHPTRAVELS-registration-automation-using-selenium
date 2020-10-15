@@ -156,7 +156,8 @@ A test automation script that automates testcases with a set of conditions and c
 <br>
 •	def test_redundant_email(self):
 
-    1 testcases that has the same email as another testcase by saving the email of the other testcases in a txt file and check if it’s matching or not .
+    1 testcases that has the same email as another testcase by saving the email of the other testcases in a txt file
+    and check if it’s matching or not .
 
 <br>
 <br>
