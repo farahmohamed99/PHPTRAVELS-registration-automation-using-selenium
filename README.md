@@ -22,7 +22,7 @@ Running the tests :
  
     •	pip install selenium
    
-    •   pip install unittest
+    •	pip install unittest
 
     •	pip install ipynb
 
