@@ -38,7 +38,7 @@ Running the tests :
 
     •	pip install random
    
-    •    pip install requests
+    •   pip install requests
 
     •	pip install time
  
@@ -79,15 +79,25 @@ The project consists of 6 python files :
 1-	Locator :- contains 3 classes, Each class represents a page that contains 
     all the information needed for each element to access.
     Ex: (By.NAME , 'firstname').
+    
+    
 
 2-	Elements :- contains 9 classes. A base class that represents one element on the page and fill it with the specified value, the other classes represent all the textboxes and     inherits from the base class to be filled with the data.
     Ex: Firstname textbox = ‘ Stefan’.
+    
+    
 
 3-	Page :-  contains 4 classes, a base class and 3 other classes that represent the pages ex: register page , login page and account page.
 
+
+
 4-	Utlis :- contains the helper functions and variables that are needed.
 
+
+
 5-	Test :- contains 1 class that contains all the testcases.
+
+
 
 Testcases :
 
