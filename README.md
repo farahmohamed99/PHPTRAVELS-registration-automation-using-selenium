@@ -16,7 +16,6 @@ A test automation script that automates testcases with a set of conditions and c
     import zipfile
     with zipfile.ZipFile("PHPTRAVELS-registration-automation-using-selenium-main.zip","r") as zip_ref:
         zip_ref.extractall("Assignment")
-<br> 
  4- Delete the reports and logs folders to create new ones.
 <br>
 <br>
@@ -43,7 +42,6 @@ A test automation script that automates testcases with a set of conditions and c
     •	pip install requests
 
     •	pip install time
-<br>
 <br>
  6- Run test.ipynb.
 <br>
