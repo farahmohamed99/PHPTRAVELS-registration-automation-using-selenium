@@ -4,8 +4,46 @@ A test automation script that automates testcases with a set of conditions and c
 
 Running the tests :
 
-To use the automation script you have to download all the files in the repository  and run test.ipynb . A set of testcases is executed and a report is created with the number of passes , failures and errors with screenshots of the failure testcases.
+To run the automation script:
 
+1- Download the repository as a zip file.
+
+2- Upload the zip file on jupyter notebook.
+
+3- To unzip the file you have to run this code and a folder named "Pixelogic_Assignment" will be created:
+
+    import zipfile
+    with zipfile.ZipFile("PHPTRAVELS-registration-automation-using-selenium-main.zip","r") as zip_ref:
+        zip_ref.extractall("Pixelogic_Assignment")
+        
+ 4- Delete the reports and logs folders to create new ones.
+ 
+ 5- Open the cmd and download the following packages :
+ 
+   •	pip install selenium
+   
+   • pip install unittest
+
+   •	pip install ipynb
+
+   •	pip install htmltestrunner
+
+   •	pip install os-sys
+
+   •	pip install json
+
+   •	pip install Pillow==2.2.2
+
+   •	pip install Faker
+
+   •	pip install random
+   
+   • pip install requests
+
+   •	pip install time
+ 
+ 6- Run test.ipynb.
+ 
 Components and features :
 
 •	Python
