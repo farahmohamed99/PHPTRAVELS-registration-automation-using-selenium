@@ -2,7 +2,7 @@
 
 A test automation script that automates testcases with a set of conditions and checks the website’s efficiency using selenium automation tool , Jupyter notebook , Chrome web driver, unittest,  and Python.
 
-Running the tests :
+# Running the tests :
 
 
 1- Download the repository as a zip file.
@@ -46,7 +46,7 @@ Running the tests :
  6- Run test.ipynb.
  
  
-Components and features :
+# Components and features :
 
 
     •	Python
@@ -73,7 +73,7 @@ Components and features :
 
 
 
-The project consists of 6 python files :
+# The project consists of 6 python files :
 
 
 
@@ -103,7 +103,7 @@ The project consists of 6 python files :
 
 
 
-Testcases :
+# Testcases :
 
 •	def test_firstname_empty(self), def test_lastname_empty(self), def test_phone_empty(self), def test_email_empty(self), def test_password_empty(self), def test_confirmpassword_empty(self) :
 
