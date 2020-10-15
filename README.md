@@ -72,8 +72,8 @@ A test automation script that automates testcases with a set of conditions and c
     •	random
 
     •	Time
-<br>
-<br>
+
+
 # The project consists of 6 python files :
 <br>
 1-	Locator :- contains 3 classes, Each class represents a page that contains 
