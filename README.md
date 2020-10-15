@@ -1,7 +1,8 @@
 # PHPTRAVELS-registration-automation-using-selenium
 
 A test automation script that automates testcases with a set of conditions and checks the website’s efficiency using selenium automation tool , Jupyter notebook , Chrome web driver, unittest,  and Python.
-
+<br>
+<br>
 # Running the tests :
 <br>
 1- Download the repository as a zip file.
@@ -15,7 +16,6 @@ A test automation script that automates testcases with a set of conditions and c
     import zipfile
     with zipfile.ZipFile("PHPTRAVELS-registration-automation-using-selenium-main.zip","r") as zip_ref:
         zip_ref.extractall("Assignment")
-<br>
 <br> 
  4- Delete the reports and logs folders to create new ones.
 <br>
@@ -46,10 +46,11 @@ A test automation script that automates testcases with a set of conditions and c
 <br>
 <br>
  6- Run test.ipynb.
- 
- 
+<br>
+<br>
 # Components and features :
 <br>
+
     •	Python
 
     •	Selenium
@@ -71,9 +72,8 @@ A test automation script that automates testcases with a set of conditions and c
     •	random
 
     •	Time
-
-
-
+<br>
+<br>
 # The project consists of 6 python files :
 <br>
 1-	Locator :- contains 3 classes, Each class represents a page that contains 
@@ -194,5 +194,6 @@ A test automation script that automates testcases with a set of conditions and c
 
     1 testcase with successful registration followed by a login.
 
-
+<br>
+<br>
     After running all the testcases a report will be created with screenshots of failures.
