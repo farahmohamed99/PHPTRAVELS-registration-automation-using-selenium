@@ -3,12 +3,14 @@
 A test automation script that automates testcases with a set of conditions and checks the website’s efficiency using selenium automation tool , Jupyter notebook , Chrome web driver, unittest,  and Python.
 <br>
 <br>
+
 # Running the tests :
-<br>
 1- Download the repository as a zip file.
 <br>
 <br>
+<br>
 2- Upload the zip file on jupyter notebook.
+<br>
 <br>
 <br>
 3- To unzip the file you have to create a notebook and run this code and a folder named "Pixelogic_Assignment" will be created:
@@ -17,6 +19,7 @@ A test automation script that automates testcases with a set of conditions and c
     with zipfile.ZipFile("PHPTRAVELS-registration-automation-using-selenium-main.zip","r") as zip_ref:
         zip_ref.extractall("Assignment")
  4- Delete the reports and logs folders to create new ones.
+<br>
 <br>
 <br>
  5- Open the cmd and install the following packages :
@@ -45,9 +48,8 @@ A test automation script that automates testcases with a set of conditions and c
 <br>
  6- Run test.ipynb.
 <br>
-<br>
+
 # Components and features :
-<br>
 
     •	Python
 
