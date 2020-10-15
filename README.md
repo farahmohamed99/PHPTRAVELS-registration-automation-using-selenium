@@ -38,9 +38,10 @@ Running the tests :
 
     •	pip install random
    
-    •   pip install requests
+    •	pip install requests
 
     •	pip install time
+    
  
  6- Run test.ipynb.
  
@@ -81,9 +82,12 @@ The project consists of 6 python files :
     Ex: (By.NAME , 'firstname').
     
     
+    
 
 2-	Elements :- contains 9 classes. A base class that represents one element on the page and fill it with the specified value, the other classes represent all the textboxes and     inherits from the base class to be filled with the data.
     Ex: Firstname textbox = ‘ Stefan’.
+    
+    
     
     
 
