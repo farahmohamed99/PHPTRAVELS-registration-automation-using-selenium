@@ -148,9 +148,9 @@ A test automation script that automates testcases with a set of conditions and c
 <br>
 •	def test_email_invalid1(self) ,  def test_email_invalid2(self), def test_email_invalid3(self), def test_email_invalid4(self) :
 
-    4 testcases with invalid structure of an email. 
-
-        ex: missing ‘ . ’ , missing ‘ @ ’ , swap between ‘ @ ’ and ‘ . ’ , same order of the ‘ @ ’ and ‘ . ’ but with no word between them.
+    4 testcases with invalid structure of an email.
+    
+    ex: missing ‘ . ’ , missing ‘ @ ’ , swap between ‘ @ ’ and ‘ . ’ , same order of the ‘ @ ’ and ‘ . ’ but with no word between them.
 
 <br>
 <br>
