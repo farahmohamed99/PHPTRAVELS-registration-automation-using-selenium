@@ -13,7 +13,7 @@ A test automation script that automates testcases with a set of conditions and c
 <br>
 <br>
 <br>
-3- To unzip the file you have to create a notebook and run this code and a folder named "Pixelogic_Assignment" will be created:
+3- To unzip the file you have to create a notebook and run this code and a folder named "Assignment" will be created:
 
     import zipfile
     with zipfile.ZipFile("PHPTRAVELS-registration-automation-using-selenium-main.zip","r") as zip_ref:
